@@ -59,7 +59,7 @@ const CTASection = () => {
             </Button>
             <Button 
               variant="outline" 
-              className="border-secondary bg-transparent text-secondary hover:border-secondary hover:bg-secondary/10 transition-colors px-8 py-4 rounded-full"
+              className="border-white/30 text-white hover:bg-white/10 text-lg px-12 py-6 rounded-full"
             >
               Order JINJA Products
             </Button>

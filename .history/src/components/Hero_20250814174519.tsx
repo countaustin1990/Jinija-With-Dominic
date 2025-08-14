@@ -6,11 +6,11 @@ const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center bg-primary overflow-hidden">
       {/* Background Image with Overlay */}
-      <div className="absolute inset-0 p-3">
+      <div className="absolute inset-0">
         <img
           src={heroImage}
           alt="Natural wellness and herbal health products"
-          className="w-full h-full object-contain md:object-contain object-center opacity-30"
+          className="w-full h-full object-contain md:object-cover object-center opacity-30"
         />
         <div className="absolute inset-0 bg-gradient-to-br from-primary/90 via-primary/70 to-transparent"></div>
       </div>
