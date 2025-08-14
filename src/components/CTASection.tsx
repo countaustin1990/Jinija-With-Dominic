@@ -43,25 +43,25 @@ const CTASection = () => {
         {/* Main CTA */}
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">
-            Ready to Transform
+            Ready to Start Your
             <br />
-            <span className="text-secondary">Your Health?</span>
+            <span className="text-secondary">Wellness Journey with Dominic?</span>
           </h2>
           <p className="text-xl text-white/90 max-w-3xl mx-auto mb-8 leading-relaxed">
-            Join thousands of satisfied customers who have experienced the life-changing benefits 
-            of JINJA herbal extracts. Start your wellness journey today.
+            Join hundreds of satisfied customers who trust Dominic's expertise and JINJA herbal extracts. 
+            Get personalized guidance and premium natural solutions delivered to your doorstep.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <Button className="btn-secondary group text-lg px-12 py-6">
-              Order JINJA Now
+              Chat with Dominic Now
               <ArrowRight className="w-6 h-6 ml-2 group-hover:translate-x-1 transition-transform" />
             </Button>
             <Button 
               variant="outline" 
               className="border-white/30 text-white hover:bg-white/10 text-lg px-12 py-6 rounded-full"
             >
-              Become a Distributor
+              Order JINJA Products
             </Button>
           </div>
 
@@ -69,11 +69,11 @@ const CTASection = () => {
           <div className="flex flex-wrap justify-center gap-6 text-white/80">
             <div className="flex items-center gap-2">
               <div className="w-3 h-3 bg-secondary rounded-full"></div>
-              <span>Free Consultation</span>
+              <span>Free Personal Consultation</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-3 h-3 bg-secondary rounded-full"></div>
-              <span>30-Day Money Back</span>
+              <span>Direct Access to Dominic</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-3 h-3 bg-secondary rounded-full"></div>
@@ -105,15 +105,15 @@ const CTASection = () => {
         <div className="text-center mt-16 animate-scale-in" style={{ animationDelay: '0.6s' }}>
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 max-w-2xl mx-auto">
             <h3 className="text-2xl font-bold text-white mb-4">
-              Special Launch Offer - Limited Time!
+              Special Offer - First-Time Customers!
             </h3>
             <p className="text-white/90 mb-6">
-              Get 20% off your first JINJA herbal extract order plus free nationwide delivery. 
-              Offer valid for new customers only.
+              Get a FREE personal wellness consultation with Dominic when you order your first 
+              JINJA herbal extract package. Limited time offer for serious health seekers only.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button className="btn-secondary">
-                Claim Your Discount
+                Claim Your Free Consultation
               </Button>
               <Button 
                 variant="ghost" 

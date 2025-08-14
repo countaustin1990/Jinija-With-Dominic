@@ -20,39 +20,40 @@ const TeamSection = () => {
           <div className="space-y-8 animate-slide-up">
             <div>
               <Badge className="bg-primary/10 text-primary hover:bg-primary/20 mb-6">
-                Leadership & Excellence
+                Meet Dominic - Your Wellness Expert
               </Badge>
               <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                <span className="hero-text">Dedicated to Your</span>
+                <span className="hero-text">Passionate About</span>
                 <br />
-                <span className="text-foreground">Health & Success</span>
+                <span className="text-foreground">Your Health Journey</span>
               </h2>
               <p className="text-xl text-muted-foreground leading-relaxed">
-                At Multistream TM Limited, we're committed to revolutionizing health and wellness 
-                through premium natural products and comprehensive support systems.
+                Hi, I'm Dominic, founder of Multistream TM Limited and your dedicated partner in natural wellness. 
+                With years of experience in herbal medicine, I personally ensure every JINJA product meets 
+                the highest standards of quality and effectiveness.
               </p>
             </div>
 
-            {/* Company Mission */}
+            {/* Personal Mission */}
             <div className="wellness-card">
-              <h3 className="text-2xl font-semibold mb-4 text-foreground">Our Mission</h3>
+              <h3 className="text-2xl font-semibold mb-4 text-foreground">My Personal Mission</h3>
               <p className="text-muted-foreground leading-relaxed">
-                As a new indigenous direct selling company, we provide holistic solutions 
-                that combine herbal products, personal care, and online services into one 
-                comprehensive wellness hub. Our goal is to help you achieve optimal health 
-                and create sustainable financial opportunities.
+                I founded this company with a simple belief: everyone deserves access to premium, 
+                natural health solutions. Through JINJA herbal extracts and personalized wellness guidance, 
+                I'm here to help you achieve optimal health while building sustainable financial opportunities 
+                for our community.
               </p>
             </div>
 
-            {/* What We Offer */}
+            {/* Personal Approach */}
             <div className="space-y-4">
-              <h3 className="text-xl font-semibold text-foreground">What We Offer:</h3>
+              <h3 className="text-xl font-semibold text-foreground">Why Choose Jinja with Dominic:</h3>
               <div className="grid md:grid-cols-2 gap-3">
                 {[
-                  "Premium Wellness Products",
-                  "Quality Consumables",
-                  "Professional Services", 
-                  "Wealth Building Opportunities"
+                  "Personally Curated Products",
+                  "One-on-One Wellness Consultation", 
+                  "Proven Results & Testimonials",
+                  "Ongoing Health Support"
                 ].map((item, index) => (
                   <div key={index} className="flex items-center gap-3">
                     <div className="w-2 h-2 bg-secondary rounded-full"></div>
@@ -65,10 +66,10 @@ const TeamSection = () => {
             {/* CTA */}
             <div className="flex flex-col sm:flex-row gap-4">
               <Button className="btn-primary">
-                Join Our Network
+                Chat with Dominic
               </Button>
               <Button variant="outline" className="border-primary text-primary hover:bg-primary/10">
-                Learn About Opportunities
+                View Success Stories
               </Button>
             </div>
           </div>
@@ -90,10 +91,10 @@ const TeamSection = () => {
                     </div>
                   </div>
                   <div>
-                    <Badge className="bg-accent/10 text-accent mb-2">Team Executive</Badge>
-                    <h4 className="text-lg font-semibold text-foreground">Health & Wellness Leader</h4>
+                    <Badge className="bg-accent/10 text-accent mb-2">Dominic - Wellness Expert</Badge>
+                    <h4 className="text-lg font-semibold text-foreground">Herbal Medicine Specialist</h4>
                     <p className="text-sm text-muted-foreground">
-                      Dedicated to transforming lives through natural health solutions
+                      "Transforming lives through natural healing, one person at a time"
                     </p>
                   </div>
                 </div>

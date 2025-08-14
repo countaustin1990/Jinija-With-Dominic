@@ -32,21 +32,19 @@ const Hero = () => {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-6 py-3 mb-8 animate-fade-in">
             <Shield className="w-5 h-5 text-secondary" />
-            <span className="text-white font-medium">Premium Natural Health Solutions</span>
+            <span className="text-white font-medium">Dominic's Premium Natural Health Solutions</span>
           </div>
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight animate-slide-up">
-            Welcome to{" "}
-            <span className="hero-text block">
-              Multistream Health Care
-            </span>
+            <span className="hero-text block">Jinja with Dominic</span>
+            Transform Your Health Naturally
           </h1>
 
           {/* Subheading */}
           <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl leading-relaxed animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            Your trusted partner in natural wellness. Experience the power of JINJA herbal extracts - 
-            premium, indigenous solutions for a healthier, more fulfilling life.
+            Your trusted wellness partner. I'm Dominic, and I've dedicated my life to bringing you 
+            the finest JINJA herbal extracts - proven, natural solutions for optimal health and vitality.
           </p>
 
           {/* Key Benefits */}
