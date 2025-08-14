@@ -83,7 +83,7 @@ const TeamSection = () => {
                   <div className="relative">
                     <img 
                       src={heroImage}
-                      alt="Natural wellness and herbal health products"
+                      alt="Team Executive - Multistream Health Care"
                       className="w-20 h-20 rounded-full object-cover"
                     />
                     <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-success rounded-full flex items-center justify-center">

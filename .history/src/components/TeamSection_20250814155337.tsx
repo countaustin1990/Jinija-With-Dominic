@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Award, Users, TrendingUp, MapPin } from "lucide-react";
-import heroImage from "@/assets/hero-wellness.jpg";
+import teamExecutiveImage from "@/assets/team-executive.jpg";
 
 const TeamSection = () => {
   const achievements = [
@@ -82,8 +82,8 @@ const TeamSection = () => {
                 <div className="flex items-center gap-6">
                   <div className="relative">
                     <img 
-                      src={heroImage}
-                      alt="Natural wellness and herbal health products"
+                      src={teamExecutiveImage}
+                      alt="Team Executive - Multistream Health Care"
                       className="w-20 h-20 rounded-full object-cover"
                     />
                     <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-success rounded-full flex items-center justify-center">
