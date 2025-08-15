@@ -54,7 +54,7 @@ const AboutUs = () => {
             We are dedicated to providing creative and sustainable solutions for your health and wellness journey.
           </p>
         </div>
-        <div className="rounded-xl overflow-hidden shadow-lg">
+        <div className="rounded-xl overflow-hidden">
           <YouTubeVideo url={heroVideoUrl} title={heroVideoTitle} />
         </div>
       </motion.div>
