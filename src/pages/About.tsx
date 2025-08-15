@@ -8,12 +8,12 @@ import { ArrowRightIcon } from "lucide-react";
 
 const AboutUs = () => {
   // Video about making herbal tinctures
-  const heroVideoUrl = "https://www.youtube.com/watch?v=1acTWipZmh8";
-  const heroVideoTitle = "Make Your Own Pharmacy; The Beginner's Guide to Creating Herbal Medicine";
+  const heroVideoUrl = "https://youtu.be/8vveFfMuhKM?si=SB-KkXpt9As4eH3l";
+  const heroVideoTitle = "You can partner with us. Join Multistreams TM Ltd";
 
   // Video about the health benefits of herbal tea
-  const processVideoUrl = "https://www.youtube.com/watch?v=4PwC50XUv_Q";
-  const processVideoTitle = "Benefits of Herbal Tea";
+  const processVideoUrl = "https://youtube.com/shorts/Z1pPyWXYQmU?si=CFt4a6AHo7un9QgE";
+  const processVideoTitle = "35 Small Woodworking Projects Compilation";
 
   return (
     <motion.section
