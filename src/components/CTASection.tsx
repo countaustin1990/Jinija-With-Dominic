@@ -20,13 +20,13 @@ const CTASection = () => {
     {
       icon: MapPin,
       label: "Visit Us",
-      value: "Lagos, Nigeria",
+      value: "Office is located at UBEC Smart School, along David Mark Road, Minna, Niger State, Nigeria.",
       action: "Find Local Distributors"
     },
     {
       icon: Clock,
       label: "Support Hours",
-      value: "Mon-Fri 9AM-6PM",
+      value: "Mondays-Saturdays 9am to 6pm",
       action: "24/7 Online Support"
     }
   ];
