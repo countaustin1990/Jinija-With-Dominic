@@ -14,7 +14,7 @@ const CTASection = () => {
     {
       icon: Mail,
       label: "Email Us", 
-      value: "info@multistreamhealth.com",
+      value: "dominicehis82@gmail.com",
       action: "Get Product Information"
     },
     {
