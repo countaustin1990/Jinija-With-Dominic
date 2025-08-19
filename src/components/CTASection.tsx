@@ -8,7 +8,7 @@ const CTASection = () => {
     {
       icon: Phone,
       label: "Call Us",
-      value: "+2349029054789",
+      value: "+2349029054789 | +234 703 857 6581",
       action: "Start Your Wellness Journey"
     },
     {
