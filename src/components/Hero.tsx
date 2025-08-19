@@ -91,7 +91,7 @@ export default function Hero ({ scrollToSection, productshowcaseRef }: HeroProps
             className="flex flex-col sm:flex-row gap-3 md:gap-4 animate-scale-in"
             style={{ animationDelay: "0.6s" }}
           >
-            <a href="https://wa.me/+2347038576581" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/+2349029054789" target="_blank" rel="noopener noreferrer">
             <Button onClick={() => scrollToSection(productshowcaseRef)} className="btn-secondary text-primary group text-sm md:text-base px-6 py-3">
               Discover Our Products
               <ArrowRight className="w-4 h-4 md:w-5 md:h-5 ml-2 group-hover:translate-x-1 transition-transform" />
