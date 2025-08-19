@@ -54,7 +54,7 @@ const CTASection = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <a href="https://wa.me/2347038576581" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/+2349029054789" target="_blank" rel="noopener noreferrer">
             <Button  className="btn-secondary bg-secondary hover:bg-secondary/20 text-primary group px-6 py-3">
               Chat with Dominic Now
               <ArrowRight className="w-6 h-6 ml-2 group-hover:translate-x-1 transition-transform" />
@@ -117,7 +117,7 @@ const CTASection = () => {
               JINJA herbal extract package. Limited time offer for serious health seekers only.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="https://wa.me/+2347038576581" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/+2349029054789" target="_blank" rel="noopener noreferrer">
               <Button className="btn-secondary bg-secondary/10 hover:bg-secondary/20 text-primary group text-sm md:text-base px-6 py-3">
                 Claim Your Free Consultation
               </Button>
