@@ -66,7 +66,7 @@ const TeamSection = () => {
 
             {/* CTA */}
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="https://wa.me/+2347038576581" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/+2349029054789" target="_blank" rel="noopener noreferrer">
               <Button className="btn-primary">
                 Chat with Dominic
               </Button>
