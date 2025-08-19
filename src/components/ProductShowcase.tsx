@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Check, Zap, Shield, Heart, Star } from "lucide-react";
 import productsImage from "@/assets/products-collection.jpg";
+import Image14 from "@/assets/image14.jpg"
 
 const ProductShowcase = () => {
   const benefits = [
@@ -49,6 +50,11 @@ const ProductShowcase = () => {
                 src={productsImage}
                 alt="JINJA Herbal Extract Products Collection"
                 className="w-full rounded-3xl shadow-strong hover-lift"
+              />
+              <img 
+                src={Image14}
+                alt="JINJA Herbal Extract Products Collection"
+                className="w-full rounded-3xl shadow-strong hover-lift mt-10"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent rounded-3xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </div>
