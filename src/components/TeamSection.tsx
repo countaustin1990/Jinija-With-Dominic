@@ -29,7 +29,7 @@ const TeamSection = () => {
                 <span className="text-foreground">Your Health Journey</span>
               </h2>
               <p className="text-xl text-muted-foreground leading-relaxed">
-                Hi, I'm Dominic, founder of Multistream TM Limited and your dedicated partner in natural wellness. 
+                Hi, I'm Dominic, distributor of Multistream TM Limited and your dedicated partner in natural wellness. 
                 With years of experience in herbal medicine, I personally ensure every JINJA product meets 
                 the highest standards of quality and effectiveness.
               </p>
@@ -39,7 +39,7 @@ const TeamSection = () => {
             <div className="wellness-card">
               <h3 className="text-2xl font-semibold mb-4 text-foreground">My Personal Mission</h3>
               <p className="text-muted-foreground leading-relaxed">
-                I founded this company with a simple belief: everyone deserves access to premium, 
+                I partner with this company with a simple belief: everyone deserves access to premium, 
                 natural health solutions. Through JINJA herbal extracts and personalized wellness guidance, 
                 I'm here to help you achieve optimal health while building sustainable financial opportunities 
                 for our community.
