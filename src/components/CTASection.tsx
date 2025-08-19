@@ -8,7 +8,7 @@ const CTASection = () => {
     {
       icon: Phone,
       label: "Call Us",
-      value: "+2347038576581 | +2348112256519",
+      value: "+2349029054789",
       action: "Start Your Wellness Journey"
     },
     {
@@ -20,7 +20,7 @@ const CTASection = () => {
     {
       icon: MapPin,
       label: "Visit Us",
-      value: "Office is located at UBEC Smart School, along David Mark Road, Minna, Niger State, Nigeria.",
+      value: "Office is located opposite UBEC Smart School, along David Mark Road, Minna, Niger State, Nigeria.",
       action: "Find Local Distributors"
     },
     {
